@@ -6,7 +6,7 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 @OpenAPIDefinition(
-        info = @Info(title = "Desafio de Serviço de Email", version = "v1")
+        info = @Info(title = "Serviço de Email", version = "v1")
 )
 public class OpenAPIConfig {
 }
