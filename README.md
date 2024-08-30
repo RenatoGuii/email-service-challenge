@@ -21,7 +21,7 @@ Este projeto é uma API desenvolvida para gerenciar o envio de e-mails utilizand
 <h2>Configuração do Projeto:</h2> 
 
 <h3>Clonar o Repositório:</h3> 
-- Git Clone: https://github.com/renato/email-service.git 
+- Git Clone: https://github.com/RenatoGuii/email-service-challenge.git
 
 <h3>Configurar o AWS SES:</h3> 
 - Atualize o arquivo `application.properties` com suas credenciais do AWS SES (Access Key, Secret Key e região). 
